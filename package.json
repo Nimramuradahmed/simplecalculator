@@ -11,6 +11,7 @@
   "author": "Nimra",
   "license": "MIT",
   "dependencies": {
+    "inquire": "^0.4.8",
     "inquirer": "^9.3.0"
   },
   "devDependencies": {
